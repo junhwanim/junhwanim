@@ -4,8 +4,10 @@
 <img src="https://media.giphy.com/media/IhDjGtQLzpxLETw2Jc/giphy.gif" width="100%" height="400px"/>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" display="flex" alignItems="center">
 <a href="https://www.linkedin.com/in/junhwan-im-ab9672184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/junhwan-im-ab9672184/" height="30" width="40" /></a>
+  <a href="mailto:junhwanim@hotmail.com" target="blank">
+<img align="center" src="https://img.icons8.com/carbon-copy/100/000000/email.png" height="50"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
