@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jun</h1>
-<h3 align="center">Driven and enthusiastic developer with an eye for detail and a keen interest in problem solving.</h3>
+<h3 align="center">Driven and enthusiastic developer with an eye for detail, creativity and a keen interest in problem solving.</h3>
 <p align="center">
 <image src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" />
   </p>
