@@ -3,7 +3,7 @@
 <h3 align="center">Driven and enthusiastic developer with an eye for detail, creativity and a keen interest in problem solving.</h3>
 <p align="center">
 <image src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" />
-  </p>
+  </p>d
   
  <h3 align="left">Jun's Portfolio</h3>
  <a href="https://www.junhwanim.com" target="_blank">Click to View Jun's Website!</a>
