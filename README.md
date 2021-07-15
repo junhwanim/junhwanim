@@ -4,7 +4,7 @@
 <p align="center">
 <image src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" />
   </p>
-  ;
+  
  <h3 align="left">Jun's Portfolio</h3>
  <a href="https://www.junhwanim.com" target="_blank">Click to View Jun's Website!</a>
 
